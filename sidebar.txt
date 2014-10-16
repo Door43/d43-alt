@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[alt:home|Door43 (alt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-alt|d43-alt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-alt/archive/master.zip|d43-alt.zip]]
+
+**Recent Changes**
+{{changes>ns = alt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/alt|Ethnologue data]]
+
